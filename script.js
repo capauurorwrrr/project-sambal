@@ -1,4 +1,4 @@
-//  1. Pilih tombol berdasarkan ID-nya
+// 1. Pilih tombol berdasarkan ID-nya
 const tombolSapa = document.getElementByld('sapaButton');
 // 2.tambahkan 'event listener' untuk aksi 'click'
 tombolSapa.addEventListener('click',function() {
